@@ -1,0 +1,15 @@
+﻿  Source.cpp
+C:\Users\aviad twig\source\repos\ElephantProjectTwig\Source.cpp(205,33): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\aviad twig\source\repos\ElephantProjectTwig\Source.cpp(209,33): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+C:\Users\aviad twig\source\repos\ElephantProjectTwig\Source.cpp(264,30): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\aviad twig\source\repos\ElephantProjectTwig\Source.cpp(264,16): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\aviad twig\source\repos\ElephantProjectTwig\Source.cpp(278,35): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\aviad twig\source\repos\ElephantProjectTwig\Source.cpp(278,23): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\aviad twig\source\repos\ElephantProjectTwig\Source.cpp(291,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\aviad twig\source\repos\ElephantProjectTwig\Source.cpp(299,25): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\aviad twig\source\repos\ElephantProjectTwig\Source.cpp(310,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\aviad twig\source\repos\ElephantProjectTwig\Source.cpp(318,26): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\aviad twig\source\repos\ElephantProjectTwig\Source.cpp(517,33): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+C:\Users\aviad twig\source\repos\ElephantProjectTwig\Source.cpp(543,31): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+C:\Users\aviad twig\source\repos\ElephantProjectTwig\Source.cpp(547,31): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+  ElephantProjectTwig.vcxproj -> C:\Users\aviad twig\source\repos\ElephantProjectTwig\Debug\ElephantProjectTwig.exe
